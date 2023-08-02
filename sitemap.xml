@@ -4,6 +4,9 @@
         <loc>http://localhost:10003/.html</loc>
     </url>
     <url>
+        <loc>http://localhost:10003/hello-world.html</loc>
+    </url>
+    <url>
         <loc>http://localhost:10003/index.html</loc>
     </url>
     <url>
